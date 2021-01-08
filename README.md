@@ -1,2 +1,2 @@
-# Class-26
-Learning about git and github, git commands and using git bash to make a platform
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
